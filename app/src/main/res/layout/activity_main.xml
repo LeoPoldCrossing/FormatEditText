@@ -36,4 +36,11 @@
         style="@style/edit_text"
         pay:input_type="card"
         android:textSize="15sp"/>
+    <com.example.cardnumberformat.ClearEditText
+        android:id="@+id/clearEditText"
+        android:hint="moblie phone"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        style="@style/edit_text"
+        android:textSize="15sp"/>
 </LinearLayout>
