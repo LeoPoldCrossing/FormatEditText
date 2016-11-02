@@ -14,7 +14,7 @@
 
     <com.example.cardnumberformat.ClearWithSpaceEditText
         android:id="@+id/phoneET"
-        android:hint="手机号"
+        android:hint="moblie phone"
         android:gravity="center"
         android:layout_width="match_parent"
         style="@style/edit_text"
@@ -22,7 +22,7 @@
         android:textSize="15sp"/>
     <com.example.cardnumberformat.ClearWithSpaceEditText
         android:id="@+id/idcardET"
-        android:hint="身份证号"
+        android:hint="id card number"
         android:gravity="center"
         android:layout_width="match_parent"
         style="@style/edit_text"
@@ -30,7 +30,7 @@
         android:textSize="15sp"/>
     <com.example.cardnumberformat.ClearWithSpaceEditText
         android:id="@+id/cardET"
-        android:hint="银行卡号"
+        android:hint="bank card"
         android:gravity="center"
         android:layout_width="match_parent"
         style="@style/edit_text"
